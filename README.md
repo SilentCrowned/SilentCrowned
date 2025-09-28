@@ -6,4 +6,5 @@
 - Python
 - C++ (a lil bit)
 - Javascript (a lil bit)
-- Physical Touch (Jk)
+- Acts of Service (Jk)
+

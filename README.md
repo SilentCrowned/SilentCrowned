@@ -5,7 +5,7 @@
 ---
 
 # ABOUT ME
-- A **Robotics Engineer**, **IoT Developer**, **Python Developer**, **Game Designer** based in Philippines
+- A **Robotics Engineer**, **IoT Developer**, **Python Developer**, **Game Designer** and **Web Developer** based in Philippines
 - Aspiring to be SOC Analyst(Recently starting a cybersecurity career path)
 - Robotics enthusiast building intelligent machines that could do efficient tasks as much as possible.
 - Formerly Sumo-bot Competitor

@@ -52,12 +52,15 @@
 </p>
 ---
 
-### 📊 Stats & Activity
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SilentCrowned&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentCrowned&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentCrowned&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentCrowned&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SilentCrowned&theme=radical)
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=SilentCrowned&theme=radical&column=7)](https://github.com/YOUR_USERNAME)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SilentCrowned&theme=radical&hide_border=true" />

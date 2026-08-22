@@ -61,8 +61,8 @@
 
 ### 📌 Start here if you're browsing my work
 
-1. **[VALENTINES-GAME](github.com/SilentCrowned/VALENTINES_GAME)** — Valentine's event video game booth
-2. **[WasteClassifier](github.com/SilentCrowned/WasteClassifier)** — Competitive research project for SRCC Competition
+1. **[VALENTINES-GAME](https://github.com/SilentCrowned/VALENTINES_GAME)** — Valentine's event video game booth
+2. **[WasteClassifier](https://github.com/SilentCrowned/WasteClassifier)** — Competitive research project for SRCC Competition
 
 ---
 

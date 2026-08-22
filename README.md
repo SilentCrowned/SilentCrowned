@@ -60,11 +60,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SilentCrowned&theme=radical)
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=SilentCrowned&theme=radical&column=7)](https://github.com/YOUR_USERNAME)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SilentCrowned&theme=radical&hide_border=true" />
-</p>
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=SilentCrowned&theme=radical&column=7)](https://github.com/SilentCrowned)
 
 ---
 

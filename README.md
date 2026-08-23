@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/asilenz_kat">🔗 DM me on X</a>
+  <a href="https://x.com/silentcrowned">🔗 DM me on X</a>
 </p>
 
 ---
